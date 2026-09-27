@@ -44,14 +44,14 @@ Campus_Lost_&_Found_Matcher
 
 ### File Description
 
-* `main.py` – Controls the main menu and overall program flow.
-* `matching.py` – Contains the item matching and scoring logic.
-* `storage.py` – Handles loading and saving data in JSON format.
-* `validation.py` – Handles input and date validation.
-* `reports.py` – Displays reports and matching results.
-* `data.json` – Stores lost and found item reports.
-* `statement.md` – Contains the problem statement, scope, target users, and high-level features.
-* `.gitignore` – Specifies files that should not be uploaded to GitHub.
+* main.py – Controls the main menu and overall program flow.
+* matching.py – Contains the item matching and scoring logic.
+* storage.py – Handles loading and saving data in JSON format.
+* validation.py – Handles input and date validation.
+* reports.py – Displays reports and matching results.
+* data.json – Stores lost and found item reports.
+* statement.md – Contains the problem statement, scope, target users, and high-level features.
+* .gitignore – Specifies files that should not be uploaded to GitHub.
 
 ## How the Project Works
 
