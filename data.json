@@ -2,59 +2,23 @@
     "lost_items": [
         {
             "id": 1,
-            "item": "Bottle",
+            "item": "Water Bottle",
             "brand": "Milton",
             "color": "Black",
-            "location": "Library",
-            "date": "25/09/2026",
-            "description": "Black Bottle with sticker"
-        },
-        {
-            "id": 2,
-            "item": "Laptop bag",
-            "brand": "American Tourister",
-            "color": "Black",
             "location": "Ab1",
-            "date": "26/09/2026",
-            "description": "Black laptop bag with a red keychain"
-        },
-        {
-            "id": 3,
-            "item": "Earphone",
-            "brand": "Boat",
-            "color": "Cream",
-            "location": "Campus",
-            "date": "26/09/2026",
-            "description": "Cream boat earphone"
+            "date": "25/09/2026",
+            "description": "Black Milton bottle with a college sticker"
         }
     ],
     "found_items": [
         {
             "id": 1,
-            "item": "Bottle",
+            "item": "Water Bottle",
             "brand": "Milton",
-            "color": "Black",
-            "location": "Library",
-            "date": "26/09/2026",
-            "description": "Black bottle having sticker"
-        },
-        {
-            "id": 2,
-            "item": "Black Bag",
-            "brand": "American Tourister",
             "color": "Black",
             "location": "Ab1",
             "date": "26/09/2026",
-            "description": "Black laptop bag with red keychain"
-        },
-        {
-            "id": 3,
-            "item": "Earphone cream",
-            "brand": "Boat",
-            "color": "cream",
-            "location": "library",
-            "date": "28/09/2026",
-            "description": "Cream earphone"
+            "description": "Black Milton bottle having college sticker"
         }
     ]
 }
