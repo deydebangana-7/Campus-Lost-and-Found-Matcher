@@ -130,7 +130,7 @@ Possible future improvements include:
 * Database-based storage
 * Search and filtering options
 
-## Author
+## Author ##
 
 **Debangana Dey**
 
