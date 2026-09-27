@@ -75,7 +75,7 @@ Campus_Lost_&_Found_Matcher
 | Location    |            15 |
 | Date        |            10 |
 | Description |            15 |
-| **Total**   |       **100** |
+|   Total     |      100      |
 
 ### Match Classification
 
@@ -97,9 +97,8 @@ Python 3.11 or later should be installed on the system.
 3. Open the terminal.
 4. Run:
 
-```bash
+bash
 python main.py
-```
 
 5. Select an option from the menu.
 
